@@ -1,0 +1,225 @@
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\MarkShop.dll.config
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\MarkShop.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\MarkShop.pdb
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\EntityFramework.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Owin.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\PagedList.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\PagedList.Mvc.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\WebGrease.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\PagedList.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\EntityFramework.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\obj\Debug\TVDStyleHub.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\obj\Debug\TVDStyleHub.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\obj\Debug\TVDStyleHub.csproj.CopyComplete
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\obj\Debug\MarkShop.dll
+C:\Users\admin\Desktop\WebNangCao-master\MarkShop\obj\Debug\MarkShop.pdb
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\TVDStyleHub.dll.config
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\TVDStyleHub.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\TVDStyleHub.pdb
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\EntityFramework.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Owin.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\PagedList.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\PagedList.Mvc.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\WebGrease.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\PagedList.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\EntityFramework.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\obj\Debug\TVDStyleHub.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\obj\Debug\TVDStyleHub.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\obj\Debug\TVDStyleHub.csproj.CopyComplete
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\obj\Debug\TVDStyleHub.dll
+C:\Users\admin\Desktop\Web bán hàng\TVDStyleHub\obj\Debug\TVDStyleHub.pdb
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\EntityFramework.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Owin.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\PagedList.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\PagedList.Mvc.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\WebGrease.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\PagedList.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\EntityFramework.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\obj\Debug\TVDStyleHub.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\obj\Debug\TVDStyleHub.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\obj\Debug\TVDStyleHub.csproj.CopyComplete
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\MarkShop.dll.config
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\MarkShop.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\bin\MarkShop.pdb
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\obj\Debug\MarkShop.dll
+C:\Users\admin\Desktop\WebNangCao-master\TVDStyleHub\obj\Debug\MarkShop.pdb
